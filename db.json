@@ -1,5 +1,5 @@
 {
-  "users": [],
+  "users": [{ "username": "Baab@gmail.com", "password": "New", "userType": "Buyer" }, { "username": "NewTwo@gmail.com", "password": "News", "userType": "Seller" }],
   "items": [],
   "orders": []
 }
